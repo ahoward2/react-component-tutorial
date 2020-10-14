@@ -1,0 +1,17 @@
+{
+  "name": "coderoad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "programmatic-test": "jest --reporter=jest-tap-reporter",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.5.3",
+    "jest-tap-reporter": "^1.9.0",
+    "webdriverio": "^6.6.4"
+  }
+}
