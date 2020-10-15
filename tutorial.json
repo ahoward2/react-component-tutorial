@@ -19,7 +19,7 @@
     },
     "repo": {
       "uri": "https://github.com/ahoward2/react-component-tutorial",
-      "branch": "v0.1.1"
+      "branch": "v0.1.2"
     },
     "dependencies": [
       {
@@ -40,12 +40,12 @@
           "content": "This is the test text. Create an `index.html` file to pass this lesson.",
           "setup": {
             "commits": [
-              "6ffd257905f879c305b2fdd1cc73a3000d5d4a5d"
+              "1d95b67f49cd2ce92cf6b4d9d5b0e2acac3cf2b4"
             ]
           },
           "solution": {
             "commits": [
-              "ee2f70e00985be69856d09ea321ba6c197449f16"
+              "f8899f0cfa97c442432159f561b62764a0f7de63"
             ]
           }
         }
