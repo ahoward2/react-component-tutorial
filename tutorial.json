@@ -6,7 +6,7 @@
   },
   "config": {
     "testRunner": {
-      "command": "./node_modules/.bin/jest",
+      "command": "npm run test --",
       "args": {
         "tap": "--reporter=jest-tap-reporter"
       },
@@ -19,7 +19,7 @@
     },
     "repo": {
       "uri": "https://github.com/ahoward2/react-component-tutorial",
-      "branch": "v0.1.2"
+      "branch": "v0.1.3"
     },
     "dependencies": [
       {
@@ -40,12 +40,12 @@
           "content": "This is the test text. Create an `index.html` file to pass this lesson.",
           "setup": {
             "commits": [
-              "1d95b67f49cd2ce92cf6b4d9d5b0e2acac3cf2b4"
+              "3007cc646aefdaf457dd8d8feae0fe05fd07db38"
             ]
           },
           "solution": {
             "commits": [
-              "f8899f0cfa97c442432159f561b62764a0f7de63"
+              "e9efe1d99365dc0070fb6a795231ba04a3ab9726"
             ]
           }
         }
